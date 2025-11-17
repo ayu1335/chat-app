@@ -1,0 +1,24 @@
+{
+  "name": "chat-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayu1335/chat-app.git"
+  },
+  "keywords": [],
+  "type": "module",
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ayu1335/chat-app/issues"
+  },
+  "homepage": "https://github.com/ayu1335/chat-app#readme",
+  "dependencies": {
+    "tsc": "^2.0.4"
+  }
+}
