@@ -19,6 +19,8 @@
   },
   "homepage": "https://github.com/ayu1335/chat-app#readme",
   "dependencies": {
-    "tsc": "^2.0.4"
+    "@types/ws": "^8.18.1",
+    "tsc": "^2.0.4",
+    "ws": "^8.18.3"
   }
 }
